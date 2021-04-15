@@ -7,7 +7,7 @@ folder: mydoc
 ---
 
 
-This quickstart guide helps you get started with manual installation and configuration of ownCloud server on new Ubuntu 20.04 server. 
+This quickstart guide helps you get started with manual installation and configuration of ownCloud server on a new Ubuntu 20.04 LTS server. 
 
 
 ## Target Audience

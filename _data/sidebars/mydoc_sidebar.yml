@@ -34,32 +34,31 @@ entries:
       type: homepage
 
 
-    - title: Target Audience
-      url: /mydoc_target_audience.html
-      output: web, pdf
-
-    - title: Prerequisites
-      url: /mydoc_prerequisites.html
-      output: web, pdf
-
-
   - title: Installation
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: Server Preparation
+      url: /mydoc_server_preparation.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
+    - title: Configure the MariaDB Database
+      url: /mydoc_configure_database.html
       output: web, pdf
 
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
+    - title: Download ownCloud
+      url: /mydoc_download_owncloud.html
       output: web, pdf
 
-  - title: Authoring
+    - title: Create a Virtual Host Configuration
+      url: /mydoc_virtual_host_configuration.html
+      output: web, pdf 
+
+    - title: Installation Wizard
+      url: /mydoc_installation_wizard.html
+      output: web, pdf          
+
+  - title: Manage Trusted Domains
     output: web, pdf
 
     folderitems:
@@ -67,35 +66,9 @@ entries:
       url: /mydoc_pages.html
       output: web, pdf
 
-    - title: Posts
-      url: /mydoc_posts.html
-      output: web, pdf
 
-    - title: Lists
-      url: /mydoc_lists.html
-      output: web, pdf
 
-    - title: Conditional logic
-      url: /mydoc_conditional_logic.html
-      output: web, pdf
-
-    - title: Content reuse
-      url: /mydoc_content_reuse.html
-      output: web, pdf
-
-    - title: Collections
-      url: /mydoc_collections.html
-      output: web, pdf
-
-    - title: WebStorm editor tips
-      url: /mydoc_webstorm_text_editor.html
-      output: web, pdf
-
-    - title: Atom editor tips
-      url: /mydoc_atom_text_editor.html
-      output: web, pdf
-
-  - title: Navigation
+  - title: Add User Account
     output: web, pdf
 
     folderitems:
@@ -115,7 +88,7 @@ entries:
       url: /mydoc_series.html
       output: web, pdf
 
-  - title: Formatting
+  - title: Desktop or Mobile Client
     output: web, pdf
 
     folderitems:
@@ -127,41 +100,6 @@ entries:
       url: /mydoc_alerts.html
       output: web, pdf
 
-    - title: Icons
-      url: /mydoc_icons.html
-      output: web, pdf
-
-    - title: Images
-      url: /mydoc_images.html
-      output: web, pdf
-
-    - title: Code samples
-      url: /mydoc_code_samples.html
-      output: web, pdf
-
-    - title: Labels
-      url: /mydoc_labels.html
-      output: web, pdf
-
-    - title: Links
-      url: /mydoc_hyperlinks.html
-      output: web, pdf
-
-    - title: Navtabs
-      url: /mydoc_navtabs.html
-      output: web, pdf
-
-    - title: Tables
-      url: /mydoc_tables.html
-      output: web, pdf
-
-    - title: Syntax highlighting
-      url: /mydoc_syntax_highlighting.html
-      output: web, pdf
-
-    - title: Workflow maps
-      url: /mydoc_workflow_maps.html
-      output: web, pdf
 
 
 
