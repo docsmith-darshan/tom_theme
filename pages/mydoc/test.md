@@ -12,5 +12,6 @@ This site provides documentation, training, and other notes for the Jekyll Docum
 The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
 
 ## Survey of features
+he instructions here are geared towards technical write
 
 {% include note.html content="Test Notes" %}
