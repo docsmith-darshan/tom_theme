@@ -7,6 +7,13 @@ folder: mydoc
 ---
 
 
+## Before you begin
+Ensure that all the installed packages are entirely up to date, and that PHP is available in the APT repository. To do so, run the following command:
+
+We strongly recommend you update and upgrade your operating system software. These upgrades can provide security and software fixes that might prevent future problems. 
+```
+apt update && apt upgrade -y
+```
 
 ## Prepare Ubantu 20.04 Server
 

@@ -37,7 +37,7 @@ service apache2 reload
 ```
 
 ## Enable the Recommended Apache Modules
-To enable the Recommended Apache Modules. run the following commands:
+To enable the recommended Apache Modules. run the following commands:
 ```
 echo "Enabling Apache Modules"
 a2enmod dir env headers mime rewrite setenvif
