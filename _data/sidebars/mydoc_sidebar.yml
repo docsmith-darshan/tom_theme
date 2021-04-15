@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: ownCloud Docs
-  version: 6.0
+  product: ownCloud Administrator Quick Start Guide
+  version: 1.0
   folders:
 
   - title:
@@ -19,32 +19,28 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: Overview
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
+    - title: Introduction
+      url: /mydoc_welcome_to_owncloud.html
+      output: web, pdf
+      type: homepage
+
+    - title: Get Started
+      url: /mydoc_get_started.html
       output: web, pdf
       type: homepage
 
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Target Audience
+      url: /mydoc_target_audience.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
+    - title: Prerequisites
+      url: /mydoc_prerequisites.html
       output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
-    - title: Test
-      url: /mydoc_test.html
-      output: web, pdf
-
 
 
   - title: Installation

@@ -1,30 +1,46 @@
 ---
 title: Introduction
+permalink: mydoc_welcome_to_owncloud.html
+keywords: welcome, introduction, owncloud
 sidebar: mydoc_sidebar
-permalink: mydoc_introduction.html
 folder: mydoc
 ---
 
-## Overview
+## Welcome to ownCloud
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+ownCloud is an open source file storage service that enables content collaboration, sharing, and secure storage. It offers a solution to organizations that need to share confidential data internally and externally. The open platform offers better productivity and security within digital collaboration, and enables users to access data no matter where it is stored or which device is being used.
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+Own cloud is an on-premise file sync and share solution that integrates with existing infrastructure out-of-the-box. own clouds modular design allows IT to enable and disable capabilities as needed and even implement custom integrations and simple plug-in applications. own cloud offers a single point of access to your files from any location on any device.
 
-## Survey of features
 
-Some of the more prominent features of this theme include the following:
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+Improve collaboration within your organization
+Unlock productivity gains through easy, flexible and secure sharing of files and folders. Save storage and bandwidth using the Virtual File System
 
-## Getting started
+Be productive wherever you are
+Find, edit and share documents on mobile devices, whether in the office, at home or on the go.
 
-To get started, see [Getting Started][index].
+Work together in secure clouds
+Seamlessly collaborate in real time, remote and platform-independent.
 
-{% include links.html %}
+Share data with external contacts
+Safely involve contacts outside your organization with select files and folders.
+
+Keep it safe
+Make files and folder accessible for legitimate use by eligible users while protecting them from anyone else.
+
+Ensure compliance
+State-of-the-Art remote collaboration that meets even the toughest regulations.
+
+Unburden the mail server
+Send links instead of attachments. It is safer and eases the load on the mail server.
+
+Integrate and adapt to your requirements
+Incorporate ownCloud seamlessly into your sovereign workspace. Leverage existing user directories. Extend, customize and adjust ownCloud to fit your needs. You can brand it, too.
+
+
+
+ownCloud is for anybody seeking digital supremacy and a powerful file access platform, whether they be individuals, small businesses, organizations, and institutions large and small, multinational corporations or governments.
+
+
+
