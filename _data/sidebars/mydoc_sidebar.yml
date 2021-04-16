@@ -72,21 +72,14 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Sidebar navigation
-      url: /mydoc_sidebar_navigation.html
+    - title: User Account
+      url: /mydoc_user_account.html
       output: web, pdf
 
     - title: YAML tutorial in the context of Jekyll
       url: /mydoc_yaml_tutorial.html
       output: web, pdf
 
-    - title: Tags
-      url: /mydoc_tags.html
-      output: web, pdf
-
-    - title: Series
-      url: /mydoc_series.html
-      output: web, pdf
 
   - title: Desktop or Mobile Client
     output: web, pdf

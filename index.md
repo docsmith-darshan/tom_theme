@@ -1,5 +1,5 @@
 ---
-title: "ownCloud Documentation Hub"
+title: "ownCloud Administrator Guide"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
