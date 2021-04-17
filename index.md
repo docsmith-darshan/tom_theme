@@ -1,12 +1,13 @@
 ---
-title: "ownCloud Administrator Guide"
+title: "ownCloud Server Administrator Guide"
 keywords: sample homepage
-tags: [getting_started]
+tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
 
 ---
 
-Welcome to ownCloud Documentation Hub. You can download and install ownCloud on your own Linux server, try some prefab cloud or virtual machine images, or sign up for hosted ownCloud services.
+Welcome to ownCloud Server Quick Start Administrator Guide. This guide is designed to help you quickly install and configure the ownCloud on Ubuntu 20.04 server.
+
 
 
