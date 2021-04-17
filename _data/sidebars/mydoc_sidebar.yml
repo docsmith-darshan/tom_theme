@@ -85,11 +85,11 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Tooltips
-      url: /mydoc_adding_tooltips.html
+    - title: Desktop Client
+      url: /mydoc_desktop_mobile_client.html
       output: web, pdf
 
-    - title: Alerts
+    - title: Mobile Client
       url: /mydoc_alerts.html
       output: web, pdf
 
