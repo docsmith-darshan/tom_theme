@@ -9,10 +9,9 @@ folder: mydoc
 
 Follow the below steps to create a virtual Host Configuration:
 1. Navigate to the following directory `/etc/apache2/sites-available/owncloud.conf`:
-    ```
-    nano /etc/apache2/sites-available/owncloud.conf
-    ```
-2. Add the following config lines:
+2. nano /etc/apache2/sites-available/owncloud.conf
+
+2. Edit the owncloud.config file and add the following content:
     ```
     Alias /owncloud "/var/www/owncloud/"
 

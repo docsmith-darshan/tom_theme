@@ -14,6 +14,6 @@ This quickstart guide helps you get started with manual installation and configu
 This guide is intended for administrators who want to manually install, manage, and optimize their ownCloud servers.
 
 ## Prerequisites
-Before you install ownCloud, you need the following:
+ownCloud has the following prerequisites:
 * Ubuntu 20.04 LTS server installed with SSH enabled
 * You must have root or sudo previliages

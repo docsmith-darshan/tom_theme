@@ -6,11 +6,9 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-## Welcome to ownCloud
-
 ownCloud is an open source file storage service that enables content collaboration, sharing, and secure storage. It offers a solution to organizations that need to share confidential data internally and externally. It provides a single point of access to your files from any location on any device.
 
-ownCloud is for anybody seeking digital supremacy and a powerful file access platform, whether they be individuals, small businesses, organizations, and institutions, multinational corporations or governments.
+ownCloud is for anybody seeking digital supremacy and a powerful file access platform, whether they be individuals, small businesses, organizations, and multinational corporations or governments.
 
 
 
