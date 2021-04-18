@@ -1,16 +1,16 @@
 ---
-title: Configure the MariaDB Database
+title: Configure MariaDB
 permalink: mydoc_configure_database.html
 keywords: configure, database
 sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-{% include important.html content=" You need to again enter the Database user, Database password, and Database name in the [Installation Wizard](mydoc_installation_wizard.html). " %}
+It describes the basic configuration steps required to create an administrative user for the MariaDB. 
 
-To configure the database, follow the below steps:
+**Procedure**
 
-1. Login into MariaDB, by running the following command:
+1. Login into MariaDB as a root user:
     ```
     mysql --user=root -p
     ```
@@ -28,12 +28,12 @@ To configure the database, follow the below steps:
     ```
     CREATE USER 'dbadmin'@'localhost' IDENTIFIED BY 'password';
     ```
-    Example:
+    For Example:
     ```
     CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY '1234';
     ```
     {% include important.html content=" You need to enter the same Database user name and password in the [Installation Wizard](mydoc_installation_wizard.html). " %}
-4. Grant all the privileges to user:
+4. Grant all the privileges to a user:
     ```
     GRANT ALL PRIVILEGES ON *.* TO 'dbadmin'@'localhost' WITH GRANT OPTION;
     ```
@@ -45,7 +45,7 @@ To configure the database, follow the below steps:
     ```
     FLUSH PRIVILEGES;
     ```
-6. Exit the MariaDB database:
+6. Exit MariaDB:
     ```
     exit
     ```

@@ -1,5 +1,5 @@
 ---
-title: Download ownCloud
+title: Install ownCloud
 permalink: mydoc_download_owncloud.html
 keywords: download, owncloud, install
 sidebar: mydoc_sidebar
@@ -7,33 +7,43 @@ folder: mydoc
 ---
 
 
-To install ownCloud binaries, you have to download the required package.
-Before you download the ownCloud package, you must navigate to the directory `/var/www`. 
+To install ownCloud binaries, you have to download the archive of the latest ownCloud version. You can download either the .tar.bz2 or .zip archive that fits your needs.
+ 
 
-Follow the below steps to donwload ownCloud:
+**Procedure**
+
 1. Navigate to the `/var/www` directory:
     ```
     cd /var/www
     ```
 
-2. To download the latest archive of the ownCloud version, go to [ownCloud Download page](https://owncloud.com/download-server/ "ownCloud Download page") and select the package that fits your needs.  You can download either the .tar.bz2 or .zip archive.
+2.  Go to [ownCloud Download page](https://owncloud.com/download-server/ "ownCloud Download page") to select the archive file. 
 
-3. Copy the link of the selected file and run following command to download it:
+3. You can select either the .tar.bz2 or .zip archive. To copy the link of the selected archive file, right-click the **Download** button, and then select **copy link address**.
+
+    {% include image.html file="download-owncloud.png" alt="Jekyll" caption="Download ownCloud Package" %}
+
+3. Download the archive file:
+
     ```
-    wget https://download.owncloud.org/community/owncloud-complete-yyyymmdd.tar.bz2
+    wget https://download.owncloud.org/community/owncloud-complete-yyyymmdd.archive_type
     ```
-    Example:
+    For Example:
     ```
-    wget https://download.owncloud.org/community/owncloud-complete-20210326.tar.bz2
+    wget https://download.owncloud.org/community/owncloud-complete-20210326.tar.
+
     ```
-4. Extract the archive contents and run the unpacking command for your tar archive:
+
+
+4. Extract the archive contents:
     ```
     tar -xjf owncloud-complete-yyyymmdd.tar.bz2
     ```
-    Example:
+    For Example:
     ```
     tar -xjf owncloud-complete-20210326.tar.bz2
-5. Set the ownership and permissions for ownCloud directory, by running the following commands:
+    ```
+5. Set the ownership and permissions for ownCloud directory:
     ```
     chown -R www-data:www-data /var/www/owncloud
     chmod -R 755 /var/www/owncloud

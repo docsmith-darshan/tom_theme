@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction to ownCloud
 permalink: mydoc_welcome_to_owncloud.html
 keywords: welcome, introduction, owncloud
 sidebar: mydoc_sidebar
@@ -12,7 +12,8 @@ ownCloud is for anybody seeking digital supremacy and a powerful file access pla
 
 
 
-## Features
+**Features**
+
 ownCloud provides you the following:
 
 * Improves collaboration within your organization

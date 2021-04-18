@@ -8,23 +8,22 @@ folder: mydoc
 
 
 ## Before you Begin
-Ensure that all the installed packages are entirely up to date, and that PHP is available in the APT repository. To do so, run the following command:
 
-We strongly recommend you update and upgrade your operating system software. These upgrades can provide security and software fixes that might prevent future problems. 
+Ensure that you update and upgrade your operating system software. These upgrades can provide security and software fixes that might prevent future problems. To update all packages on your system, run the following command:
 ```
 apt update && apt upgrade -y
 ```
 
 ## Prepare Ubantu 20.04 Server
 
-Before you install the ownCloud, you've to prepare the Ubuntu 20.04 server by installing the required packages:
+Before you install the ownCloud, you've to install the following packages on Ubuntu 20.04 server:
 * Apache webserver
 * Database
 * PHP 7.4 and related modules
 
 
 
-## Install Apache webserver
+## Install Apache Webserver
 To install Apache webserver, run the following command:
 ```
 apt install libapache2-mod-php apache2
@@ -71,13 +70,6 @@ apt install php
 apt install php-mysql php-mbstring php-intl php-redis php-imagick php-igbinary php-gmp php-bcmath php-curl php-gd php-zip php-imap php-ldap php-bz2 php-ssh2 php-phpseclib
 apt install php-dev libsmbclient-dev php-pear
 ```
-
-{{site.data.alerts.tip}}
-<p>You can run the following command to check the PHP version installed in your server:</p>
-<pre>
-php -v
-</pre>
-{{site.data.alerts.end}}
 
 
 {% include important.html content="If you've mutilple concurrent PHP versions, you must tell your Web Server and CLI environment which one to use. For more information, refer to [Multiple Concurrent PHP Versions](https://doc.owncloud.com/server/10.7/admin_manual/installation/manual_installation/server_prep_ubuntu_20.04.html#multiple-concurrent-php-versions). " %}

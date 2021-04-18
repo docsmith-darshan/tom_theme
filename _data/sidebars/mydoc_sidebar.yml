@@ -42,11 +42,11 @@ entries:
       url: /mydoc_server_preparation.html
       output: web, pdf
 
-    - title: Configure the MariaDB Database
+    - title: Configure MariaDB
       url: /mydoc_configure_database.html
       output: web, pdf
 
-    - title: Download ownCloud
+    - title: Install ownCloud
       url: /mydoc_download_owncloud.html
       output: web, pdf
 
