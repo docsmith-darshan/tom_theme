@@ -12,17 +12,16 @@ ownCloud is for anybody seeking digital supremacy and a powerful file access pla
 
 
 
-**Features**
+**Advantages of using ownCloud**
 
-ownCloud provides you the following:
+The following capabilities are some of the advantages of the ownCloud:
 
-* Improves collaboration within your organization
-* Safely share data with external contacts
-* Enable real time collabration
-* Integrate and adapt to your requirements
-* Find, edit, and share documents on mobile devices
-* Ensure compliance
-* Make files and folder accessible for legitimate use by eligible users
+* Improves collaboration within your organization.
+* Safely share data with external contacts.
+* Enable real time collabration.
+* Integrate and adapt to your requirements.
+* Find, edit, and share documents on mobile devices.
+* Make files and folder accessible for legitimate use by eligible users.
 
 
 

@@ -12,6 +12,7 @@ As an administrator, you can create, manage, and group users.
 
 
 1. Click **Account** at the top right of the screen and select **Users**.
+    
     {% include image.html file="users.png" alt="Jekyll"  %}
 2. Enter the information to create a New User.
 

@@ -42,7 +42,7 @@ service apache2 reload
 
 **Enable the Recommended Apache Modules**
 
-To enable the recommended Apache Modules. run the following commands:
+To enable the recommended Apache modules, run the following commands:
 ```
 echo "Enabling Apache Modules"
 a2enmod dir env headers mime rewrite setenvif
@@ -56,9 +56,10 @@ systemctl restart apache2
 systemctl restart mariadb
 ```
 
-ownCloud is now installed. You can confirm that it is ready to use by pointing your web browser to your ownCloud installation.
+ownCloud is successfully installed. Now use your web browser to access the ownCloud and view the ownCloud setup page. Your ownCloud is accessible from `http://< your-owncloud-domain >`. To complete the installation wizard, see [Installation Wizard](mydoc_installation_wizard.html).
 
-Example:
+
+For Example:
 ```
-localhost/ownCloud
+http://localhost/ownCloud
 ```
