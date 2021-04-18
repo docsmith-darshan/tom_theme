@@ -1,9 +1,17 @@
-# Manage Trusted Domains
+---
+title: Manage Trusted Domains
+permalink: mydoc_manage_trusted_domains.html
+keywords: virtual host, config
+sidebar: mydoc_sidebar
+folder: mydoc
+---
+
 
 All URLs used to access your ownCloud server must be white-listed in your config.php file, under the trusted_domains setting. Users are allowed to log into ownCloud only when they point their browsers to a URL that is listed in the trusted_domains setting.
 
-Follow the below steps to add users to trusted domains.
-1. Navigate to the follwoing directory `/var/www/owncloud/config/config.php`:
+**Procedure**
+
+1. Edit the `config.php` file:
     ```
     nano /var/www/owncloud/config/config.php
     ```

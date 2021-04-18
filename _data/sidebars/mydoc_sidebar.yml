@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Administrator Guide
+  product: ownCloud
   version: 1.0
   folders:
 
@@ -62,22 +62,18 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Pages
-      url: /mydoc_pages.html
+    - title: Add Users
+      url: /mydoc_manage_trusted_domains.html
       output: web, pdf
 
 
 
-  - title: Add User Account
+  - title: User Management
     output: web, pdf
 
     folderitems:
-    - title: User Account
+    - title: Create a New User Account
       url: /mydoc_user_account.html
-      output: web, pdf
-
-    - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
       output: web, pdf
 
 
