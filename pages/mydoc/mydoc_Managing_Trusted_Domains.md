@@ -15,7 +15,7 @@ All URLs which access your ownCloud server must be listed in your `config.php` f
     ```
     nano /var/www/owncloud/config/config.php
     ```
-2. Under trusted domains, enter users URL.
+2. In `config.php` file, under trusted domains, enter URLs (one URL by line).
     ```
     'trusted_domains' => [
     0 => 'localhost',

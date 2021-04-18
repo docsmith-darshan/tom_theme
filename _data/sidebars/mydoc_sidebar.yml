@@ -81,7 +81,7 @@ entries:
 
     folderitems:
     - title: Desktop Client
-      url: /mydoc_desktop_mobile_client.html
+      url: /mydoc_desktop_client.html
       output: web, pdf
 
     - title: Mobile Client
