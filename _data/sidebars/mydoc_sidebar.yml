@@ -56,7 +56,16 @@ entries:
 
     - title: Installation Wizard
       url: /mydoc_installation_wizard.html
-      output: web, pdf          
+      output: web, pdf  
+
+  - title: User Management
+    output: web, pdf
+
+    folderitems:
+    - title: Create a New User Account
+      url: /mydoc_user_account.html
+      output: web, pdf
+        
 
   - title: Manage Trusted Domains
     output: web, pdf
@@ -67,17 +76,7 @@ entries:
       output: web, pdf
 
 
-
-  - title: User Management
-    output: web, pdf
-
-    folderitems:
-    - title: Create a New User Account
-      url: /mydoc_user_account.html
-      output: web, pdf
-
-
-  - title: Desktop or Mobile Client
+  - title: Desktop and Mobile Client
     output: web, pdf
 
     folderitems:

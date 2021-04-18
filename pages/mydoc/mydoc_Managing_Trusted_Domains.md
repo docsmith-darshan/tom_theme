@@ -7,7 +7,7 @@ folder: mydoc
 ---
 
 
-All URLs used to access your ownCloud server must be white-listed in your config.php file, under the trusted_domains setting. Users are allowed to log into ownCloud only when they point their browsers to a URL that is listed in the trusted_domains setting.
+All URLs which access your ownCloud server must be listed in your `config.php` file, under the trusted_domains setting. Users can access and log into ownCloud only when their URL is listed in the trusted_domains setting.
 
 **Procedure**
 
@@ -15,7 +15,7 @@ All URLs used to access your ownCloud server must be white-listed in your config
     ```
     nano /var/www/owncloud/config/config.php
     ```
-2. A typical configuration may look like this:
+2. Under trusted domains, enter users URL.
     ```
     'trusted_domains' => [
     0 => 'localhost',
@@ -23,4 +23,6 @@ All URLs used to access your ownCloud server must be white-listed in your config
     2 => '192.168.1.50',
     ],
     ```
+    For example:
+    {% include image.html file="trusted_domains.png" alt="Jekyll"  %}
 3. Save and Exit.

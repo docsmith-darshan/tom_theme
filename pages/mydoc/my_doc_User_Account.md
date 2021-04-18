@@ -21,7 +21,7 @@ As an administrator, you can create, manage, and group users.
 
         {% include note.html content="Username may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.), and at signs (@).  " %}
     * **E-Mail**: Enter the e-mail id of the user.
-    * **Assign Groups**: This is optional. select the group to assign the user.
+    * **Assign Groups**: This is optional. Select the group to assign the user.
 
         {% include tip.html content=" To add a new group, click **add group**  " %}
 3. Click **Create**.
