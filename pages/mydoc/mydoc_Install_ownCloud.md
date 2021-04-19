@@ -21,7 +21,7 @@ To install ownCloud binaries, you've to download the archive of the latest ownCl
 
 3. You can select either the .tar.bz2 or .zip archive. To copy the link of the selected archive file, right-click the **Download** button, and then select **copy link address**.
 
-    {% include image.html file="download-owncloud.png" alt="Jekyll" caption="Download ownCloud Package" %}
+    {% include image.html file="download-owncloud.png" alt="ownCloud Download page" %}
 
 3. Download the selected archive file:
 
@@ -48,3 +48,5 @@ To install ownCloud binaries, you've to download the archive of the latest ownCl
     chown -R www-data:www-data /var/www/owncloud
     chmod -R 755 /var/www/owncloud
     ```
+
+Next [Create a Virtual Host Configuration](mydoc_virtual_host_configuration.html)

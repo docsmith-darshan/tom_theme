@@ -6,17 +6,17 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-As an User, you can install Desktop Sync Client in your computer to connect with your ownCloud server. Desktop Sync Client is available for Windows, Mac OS X, and various Linux distributions. To connect to your ownCloud server, complete the following steps:
+As a user, you can download Desktop Sync Client in your PC to connect to your ownCloud server. Desktop Sync Client is available for Windows, Mac OS X, and various Linux distributions. To connect your PC to ownCloud server, complete the following steps:
 
 **Procedure**
 
 1. In the **Server Address** box, enter the URL of your ownCloud server, and then click **Next**.
 
-    {% include image.html file="setup-5.png" alt="Jekyll"  %}
+    {% include image.html file="setup-5.png" alt="Desktop Sync Client Login screen"  %}
 
-2. Enter your **Username** and **Password**, and then click **Next**
+2. Enter your **Username** and **Password**, and then click **Next**.
 
-    {% include image.html file="setup-6.png" alt="Jekyll"  %}
+    {% include image.html file="setup-6.png" alt="Desktop Sync Client Login screen"  %}
 
 3. To sync the files from ownCloud server, do one of the following:
     * To sync all files, select **Sync everything from server**.
@@ -28,6 +28,6 @@ As an User, you can install Desktop Sync Client in your computer to connect with
     
     {% include note.html content="The default local sync folder is `ownCloud`. To change the folder directory, click **Local Folder Directory** button.  " %}
 
-    {% include image.html file="setup-7.png" alt="Jekyll"  %}
+    {% include image.html file="setup-7.png" alt="Desktop Sync Client Login screen"  %}
 
     When you finish selecting your sync folders, click **Connect**.

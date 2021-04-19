@@ -24,13 +24,13 @@ Before you install the ownCloud, you've to install the following packages on Ubu
 
 
 ## Install Apache Webserver
-To install Apache webserver, run the following command:
+To install Apache Webserver, run the following command:
 ```
 apt install libapache2-mod-php apache2
 ```
 
 {{site.data.alerts.tip}}
-<p>You can run the following command to verify the status of Apache Webserver installation.</p>
+<p>You can also run the following command to verify the status of Apache Webserver installation.</p>
 <pre>
 systemctl status apache2
 </pre>
@@ -51,7 +51,7 @@ sudo mysql_secure_installation
 ```
 
 {{site.data.alerts.tip}}
-<p>You can run the following command to verify the status of MariaDB.</p>
+<p>You can also run the following command to verify the status of MariaDB.</p>
 <pre>
 systemctl status mariadb
 </pre>

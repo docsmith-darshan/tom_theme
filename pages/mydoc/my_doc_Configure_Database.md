@@ -28,16 +28,15 @@ It describes the basic configuration steps required to create an administrative 
     ```
     CREATE USER 'dbadmin'@'localhost' IDENTIFIED BY 'password';
     ```
-    For Example:
-    ```
-    CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY '1234';
-    ```
+
+    {% include important.html content=" Substitute `dbadmin` and `password` with the name and password of your choice. " %}
     
-4. Grant all the privileges to a user:
+    
+4. Grant all the privileges to a database user:
     ```
     GRANT ALL PRIVILEGES ON *.* TO 'dbadmin'@'localhost' WITH GRANT OPTION;
     ```
-    Example:
+    For Example:
     ```
     GRANT ALL PRIVILEGES ON *.* TO 'ownclouduser'@'localhost' WITH GRANT OPTION;
     ```
@@ -49,3 +48,5 @@ It describes the basic configuration steps required to create an administrative 
     ```
     exit
     ```
+
+Next [Install ownCloud](mydoc_download_owncloud.html)

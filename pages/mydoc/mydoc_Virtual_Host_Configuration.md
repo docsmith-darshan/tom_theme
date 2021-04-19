@@ -5,7 +5,7 @@ keywords: virtual host, config
 sidebar: mydoc_sidebar
 folder: mydoc
 ---
-On Ubuntu systems, Virtual Host Configuration files are located in `/etc/apache2/sites-available` directory. You have to create an `owncloud.conf` file in the same directory. To create Virtual Host Configuration, complete the following steps:
+On Ubuntu systems, Virtual Host Configuration files are located in `/etc/apache2/sites-available` directory. You have to create an `owncloud.conf` file in the same directory. To create a Virtual Host Configuration, complete the following steps:
 
 
 **Procedure**
@@ -56,4 +56,6 @@ systemctl restart apache2
 systemctl restart mariadb
 ```
 
-ownCloud is successfully installed. Now use your web browser to access the ownCloud and view the ownCloud setup page. Your ownCloud is accessible from `http://< your-owncloud-domain >`. To complete the installation wizard, see [Installation Wizard](mydoc_installation_wizard.html).
+ownCloud is successfully installed. Now use your web browser to access the ownCloud and view the ownCloud setup page. Your ownCloud is accessible from `http://< your-owncloud-domain >`.
+
+Next [Installation Wizard](mydoc_installation_wizard.html)

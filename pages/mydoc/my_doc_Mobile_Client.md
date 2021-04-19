@@ -6,15 +6,15 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-As an User, you can install ownCloud Android app in your device to connect with your ownCloud server. You can download the latest version of the ownCloud Android app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.owncloud.android).
+As a user, you can download ownCloud Android app in your device to connect to your ownCloud server. To connect your device to ownCloud server, complete the following steps:
 
 
 
 **Procedure**
 
-1. In the login screen, enter your **Server URL**, **Username**, and **Password**.
-    {% include image.html file="mobile-1.png" alt="Jekyll"  %}
-2. Tap **Connect**.
-3. To accept self-signed SSL certificate, tap **Yes**.
-    {% include note.html content="  If your server has a self-signed SSL certificate, you get a pop-up that it's not to be trusted. " %}
-    {% include image.html file="mobile-2.png" alt="Jekyll"  %}
+1. In the login screen, enter your **Server URL**, **Username**, and **Password**, and then tap **Connect**.
+    {% include image.html file="mobile-1.png" alt="ownCloud Android App login screen"  %}
+
+2. To accept a self-signed SSL server certificate, tap **Yes**.
+
+    {% include image.html file="mobile-2.png" alt="self-signed SSL certificate"  %}

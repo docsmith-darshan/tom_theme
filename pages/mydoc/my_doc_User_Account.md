@@ -16,7 +16,7 @@ As an administrator, you can create, manage, and group users. To create a New Us
     {% include image.html file="users.png" alt="Jekyll"  %}
 2. Enter information for the New User, and then click **Create**.
 
-    {% include image.html file="create_user_with_group.png" alt="Jekyll" %}
+    {% include image.html file="create_user_with_group.png" alt="Create a New User Account" %}
     * **Username**: Enter the name of the user.
 
         {% include note.html content="Username may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.), and at signs (@).  " %}

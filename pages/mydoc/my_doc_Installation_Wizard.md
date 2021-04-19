@@ -12,7 +12,7 @@ After you've completed the installation process, you've to run the installation 
 **Procedure**
 
 1. Go to `http://< your-owncloud-domain >`.
-2. Complete the following fields to create a new Admin account:
+2. Enter information for the New Admin account.
 
     {% include image.html file="install_wizard_1.png" alt="Jekyll"  %}
     * **Username**: Enter a username.
