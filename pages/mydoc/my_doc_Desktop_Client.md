@@ -1,12 +1,12 @@
 ---
-title: Connect to your ownCloud server using Desktop Sync Client
+title: ownCloud Desktop Sync Client
 permalink: mydoc_desktop_client.html
 keywords: desktop, mobile, client
 sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-As a user, you can download Desktop Sync Client in your PC to connect to your ownCloud server. Desktop Sync Client is available for Windows, Mac OS X, and various Linux distributions. To connect your PC to ownCloud server, complete the following steps:
+As a user, you can download ownCloud Desktop Sync Client in your PC to connect to your ownCloud server. Desktop Sync Client is available for Windows, Mac OS X, and various Linux distributions. To connect your PC to ownCloud server, complete the following steps:
 
 **Procedure**
 

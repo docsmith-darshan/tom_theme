@@ -1,5 +1,5 @@
 ---
-title: Connect to your ownCloud server using ownCloud Android App
+title: ownCloud Android App
 permalink: mydoc_mobile_client.html
 keywords: desktop, mobile, client
 sidebar: mydoc_sidebar
