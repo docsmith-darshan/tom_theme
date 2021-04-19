@@ -7,7 +7,7 @@ folder: mydoc
 ---
 
 
-To install ownCloud binaries, you've to download the archive of the latest ownCloud version. You can download either the .tar.bz2 or .zip archive that fits your needs. To intall ownCloud, complete the following steps:
+To install ownCloud binaries, you've to download the archive of the latest ownCloud version. You can download either the .tar.bz2 or .zip archive that fits your needs. To install ownCloud, complete the following steps:
  
 
 **Procedure**

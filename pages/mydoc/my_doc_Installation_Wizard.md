@@ -17,10 +17,9 @@ After you've completed the installation process, you've to run the installation 
     {% include image.html file="install_wizard_1.png" alt="Jekyll"  %}
     * **Username**: Enter a username.
     * **Password**: Enter a password.
-3. Enter the credentials which you've created when [configuring MariaDB](mydoc_configure_database.html):
+3. Enter the credentials which you've created when [configuring MariaDB](mydoc_configure_database.html), and then click **Finish setup**.
 
     {% include image.html file="install_wizard_2.png" alt="Jekyll"  %}
     * **Database user**: Enter the database user name.
     * **Database password**: Enter the database password.
     * **Database name**: Enter the database name.
-3. Click **Finish setup**.

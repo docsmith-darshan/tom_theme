@@ -6,7 +6,7 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-As an administrator, you can create, manage, and group users. To create a New User Account, complete the following steps:
+As an administrator, you can create, manage, and assign group to users. To create a New User Account, complete the following steps:
 
 **Procedure**
 
