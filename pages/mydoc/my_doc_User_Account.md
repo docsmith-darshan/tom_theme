@@ -23,7 +23,7 @@ As an administrator, you can create, manage, and group users.
     * **E-Mail**: Enter the e-mail id of the user.
     * **Assign Groups**: This is optional. Select the group to assign the user.
 
-        {% include tip.html content=" To add a new group, click **add group**  " %}
+        {% include tip.html content=" To add a new group, click **add group**.  " %}
 3. Click **Create**.
 
 

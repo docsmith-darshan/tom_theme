@@ -5,7 +5,7 @@ keywords: virtual host, config
 sidebar: mydoc_sidebar
 folder: mydoc
 ---
-On Ubuntu systems, Virtual Host configuration files are located in `/etc/apache2/sites-available` directory. You have to create an `owncloud.conf` file in the same directory.
+On Ubuntu systems, Virtual Host Configuration files are located in `/etc/apache2/sites-available` directory. You have to create an `owncloud.conf` file in the same directory.
 
 
 **Procedure**

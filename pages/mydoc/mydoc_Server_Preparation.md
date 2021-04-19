@@ -73,3 +73,6 @@ apt install php-dev libsmbclient-dev php-pear
 
 
 {% include important.html content="If you've mutilple concurrent PHP versions, you must tell your Web Server and CLI environment which one to use. For more information, refer to [Multiple Concurrent PHP Versions](https://doc.owncloud.com/server/10.7/admin_manual/installation/manual_installation/server_prep_ubuntu_20.04.html#multiple-concurrent-php-versions). " %}
+
+
+Next [Configure MariaDB](mydoc_configure_database.html)

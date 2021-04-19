@@ -7,7 +7,7 @@ folder: mydoc
 ---
 
 
-To install ownCloud binaries, you have to download the archive of the latest ownCloud version. You can download either the .tar.bz2 or .zip archive that fits your needs.
+To install ownCloud binaries, you've to download the archive of the latest ownCloud version. You can download either the .tar.bz2 or .zip archive that fits your needs.
  
 
 **Procedure**
@@ -23,7 +23,7 @@ To install ownCloud binaries, you have to download the archive of the latest own
 
     {% include image.html file="download-owncloud.png" alt="Jekyll" caption="Download ownCloud Package" %}
 
-3. Download the archive file:
+3. Download the selected archive file:
 
     ```
     wget https://download.owncloud.org/community/owncloud-complete-yyyymmdd.archive_type

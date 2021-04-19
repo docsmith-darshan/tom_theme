@@ -22,7 +22,7 @@ It describes the basic configuration steps required to create an administrative 
     ```
     CREATE DATABASE ownclouddb;
     ```
-    {% include important.html content=" You need to enter the same Database name in the [Installation Wizard](mydoc_installation_wizard.html). " %}
+    
 
 3. Create a new database user with password:
     ```
@@ -32,7 +32,7 @@ It describes the basic configuration steps required to create an administrative 
     ```
     CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY '1234';
     ```
-    {% include important.html content=" You need to enter the same Database user name and password in the [Installation Wizard](mydoc_installation_wizard.html). " %}
+    
 4. Grant all the privileges to a user:
     ```
     GRANT ALL PRIVILEGES ON *.* TO 'dbadmin'@'localhost' WITH GRANT OPTION;
