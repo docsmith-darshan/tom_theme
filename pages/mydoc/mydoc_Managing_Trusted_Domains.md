@@ -7,15 +7,16 @@ folder: mydoc
 ---
 
 
-All URLs which access your ownCloud server must be listed in your `config.php` file, under the trusted_domains setting. Users can access and log into ownCloud only when their URL is listed in the trusted_domains setting.
+All URLs which access your ownCloud server must be listed in your `config.php` file, under the trusted_domains setting. Users can access and log into ownCloud only when their URL is listed in the trusted_domains setting. To add users in trusted domains, complete the following steps:
 
 **Procedure**
+
 
 1. Edit the `config.php` file:
     ```
     nano /var/www/owncloud/config/config.php
     ```
-2. In `config.php` file, under trusted domains, enter URLs (one URL by line).
+2. In the `config.php` file, under trusted domains, enter URLs (one URL by line).
     ```
     'trusted_domains' => [
     0 => 'localhost',

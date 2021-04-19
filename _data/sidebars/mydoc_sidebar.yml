@@ -85,7 +85,7 @@ entries:
       output: web, pdf
 
     - title: Mobile Client
-      url: /mydoc_alerts.html
+      url: /mydoc_mobile_client.html
       output: web, pdf
 
 

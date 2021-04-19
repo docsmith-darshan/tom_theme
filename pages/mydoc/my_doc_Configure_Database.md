@@ -6,7 +6,7 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-It describes the basic configuration steps required to create an administrative user for the MariaDB. 
+It describes the basic configuration steps required to create an administrative user for the MariaDB. To configure MariaDB, complete the following steps: 
 
 **Procedure**
 

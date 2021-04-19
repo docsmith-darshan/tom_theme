@@ -6,7 +6,7 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-As an administrator, you can create, manage, and group users.
+As an administrator, you can create, manage, and group users. To create a New User Account, complete the following steps:
 
 **Procedure**
 
@@ -14,7 +14,7 @@ As an administrator, you can create, manage, and group users.
 1. Click **Account** at the top right of the screen and select **Users**.
     
     {% include image.html file="users.png" alt="Jekyll"  %}
-2. Enter the information to create a New User.
+2. Enter information for the New User, and then click **Create**.
 
     {% include image.html file="create_user_with_group.png" alt="Jekyll" %}
     * **Username**: Enter the name of the user.
@@ -24,8 +24,6 @@ As an administrator, you can create, manage, and group users.
     * **Assign Groups**: This is optional. Select the group to assign the user.
 
         {% include tip.html content=" To add a new group, click **add group**.  " %}
-3. Click **Create**.
-
 
 
 

@@ -6,7 +6,7 @@ sidebar: mydoc_sidebar
 folder: mydoc
 ---
 
-As an User, you can install Desktop Sync Client in your computer to connect with your ownCloud server. Desktop Sync Client is available for Windows, Mac OS X, and various Linux distributions. You can download the latest version of the ownCloud Desktop Sync Client from the [ownCloud download page](https://owncloud.com/download-server/#desktop-clients).
+As an User, you can install Desktop Sync Client in your computer to connect with your ownCloud server. Desktop Sync Client is available for Windows, Mac OS X, and various Linux distributions. To connect to your ownCloud server, complete the following steps:
 
 **Procedure**
 
