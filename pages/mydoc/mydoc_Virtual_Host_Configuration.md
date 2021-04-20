@@ -56,6 +56,6 @@ systemctl restart apache2
 systemctl restart mariadb
 ```
 
-ownCloud is successfully installed. Now use your web browser to access the ownCloud and view the ownCloud setup page. Your ownCloud is accessible from `http://< your-owncloud-domain >`.
+ownCloud is installed. Now use your web browser to access the ownCloud and view the ownCloud setup page. Your ownCloud is accessible from `http://< your-owncloud-domain >`.
 
 Next [Installation Wizard](mydoc_installation_wizard.html)

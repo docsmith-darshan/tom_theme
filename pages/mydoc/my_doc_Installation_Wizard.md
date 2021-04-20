@@ -7,7 +7,7 @@ folder: mydoc
 ---
 
 
-After you've completed the installation process, you've to run the installation wizard to complete the setup.
+After the ownCloud files are installed, you've run the installation wizard to complete the setup.
 
 **Procedure**
 
